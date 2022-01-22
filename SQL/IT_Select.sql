@@ -1,0 +1,16 @@
+/* IT Select Query */
+use IT;
+
+SELECT * from MANUFACTURE;
+
+SELECT * from ACCESSORIES_TYPE;
+
+SELECT * from PRODUCT_TYPE;
+
+SELECT * from BRANCH;
+
+SELECT * from ACCESSORIES a ;
+
+SELECT * from PRODUCT p  ;
+
+SELECT * FROM ITEM i ;

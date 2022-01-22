@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+.type-card-wrapper {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 10% 10% 15% 10% 10% 10% 10% 25%;
+  align-items: center;
+  margin-top: 30px;
+
+  background-color: #f7fafc;
+  height: 100px;
+  border-radius: 15px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.type-card-item {
+  margin-top: 10px;
+}
+
+.styled-btn {
+  border: none;
+  background-color: #e1651f;
+  border-radius: 5px;
+  padding: 15px 10px;
+}
+
+.quantity-input-field {
+  width: 80px;
+  margin: 5px;
+}
+.saleprice-input-field {
+  width: 80px;
+  margin: 5px;
+}
+.importprice-input-field {
+  width: 80px;
+  margin: 5px;
+}
+.branchid-input-field {
+  width: 100px;
+  margin: 5px;
+}
+
+.smaller-styled-btn {
+  border: none;
+  background-color: #e1651f;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
